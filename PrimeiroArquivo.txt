@@ -6,4 +6,3 @@ vou para a quinta linha.
 
 Alterando para testa o editor como sendo o visial code
 
-alterando
