@@ -1,6 +1,8 @@
 Coloque algum texto no arquivo.
 
 Estou escrevendo na terceira linha.
+teste de conflito
+
 
 Teste na quarta linhas
 
